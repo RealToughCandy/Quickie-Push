@@ -2,7 +2,7 @@
 
 Bash script that commits, pushes, and time-stamps changes to GitHub with a one-word command.
 
-#Instructions (Newbie Friendly)
+## Instructions (Newbie Friendly)
 
 1. Place bash script either somewhere in your project folder or, if you want to use this command globally on various projects, somewhere else on your computer (Documents, Desktop, etc.). 
 
