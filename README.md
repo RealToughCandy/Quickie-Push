@@ -1,6 +1,6 @@
 # Quickie-Push
 
-Bash script that commits, pushes, and time-stamps changes to GitHub with a one-word command.
+Dead-simple Bash script that commits, pushes, and time-stamps changes to GitHub with a one-word command.
 
 ## Instructions (Newbie Friendly)
 
@@ -13,6 +13,14 @@ Bash script that commits, pushes, and time-stamps changes to GitHub with a one-w
 4. Save your project like you normally would. Assuming you've already setup the basics for your project to integrate with GitHub (i.e. project has been initialized, GitHub repo is created, etc.) type _push_ in the Terminal. 
 
 5. Typing "push" will trigger the Bash script, which adds, commits, and pushes your changes while adding a time stamp. 
+
+# When should I use this?
+
+Quickie Push is ideal for projects where commit messages aren't important. 
+
+# When shouldn't I use this?
+
+Not recommended for collaborative projects since commit messages are ambiguous.
 
 
 ## Notes 
