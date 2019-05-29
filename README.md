@@ -9,6 +9,7 @@ Dead-simple Bash script that commits, pushes, and time-stamps changes to GitHub 
 2. Add the contents of the alias flie to your .bash_profile, replacing the contents of _absolute-path-to-your-bash-script-goes-here_ with the absolute path of your bash script location. For example, if you put it in a project named BettyBoops, the absolute path would be something like, '/Users/runaway_jezzabel/Documents/BettyBoops/QuickiePush.sh'
 
 3. The script must be made executable. In the Terminal, _cd_ to the folder or directory containing the script, and type _chmod +x QuickiePush.sh_
+Alternately you can use the absolute path without changing directories.
 
 4. Save your project like you normally would. Assuming you've already setup the basics for your project to integrate with GitHub (i.e. project has been initialized, GitHub repo is created, etc.) type _push_ in the Terminal. 
 
