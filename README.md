@@ -4,7 +4,7 @@ Dead-simple Bash script that commits, pushes, and time-stamps changes to GitHub 
 
 ## Instructions (newbie friendly)
 
-1. Place bash script in your project folder. If you want to use this command globally on various projects, place it somewhere else (Documents, Desktop, etc.). 
+1. Place bash script in your project folder. If you want to use this command globally, place it somewhere else (Documents, Desktop, etc.). 
 
 2. Add the contents of the alias flie to your .bash_profile, replacing the contents of `absolute-path-to-your-bash-script-goes-here` with the absolute path of your bash script location. For example, if you put it in a project named BettyBoops, the absolute path would be something like, `/Users/runaway_jezzabel/Documents/BettyBoops/QuickiePush.sh`
 
