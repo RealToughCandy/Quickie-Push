@@ -21,4 +21,4 @@ Quickie Push is ideal for projects where commit messages aren't important.
 
 ## Notes 
 
--You don't have to use `push` as the command. To change it, open your .bash_profile and change it to whatever you prefer.
+You don't have to use `push` as the command. To change it, open your .bash_profile and change it to whatever you prefer.
